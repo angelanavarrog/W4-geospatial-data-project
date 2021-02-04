@@ -26,7 +26,7 @@ As a data engineer you have asked all the employees to show their preferences on
 - Everyone in the company is between 25 and 40, give them some place to go party.
 - The CEO is vegan.
 - If you want to make the maintenance guy happy, a basketball stadium must be around 10 Km.
-- The office dog—"Pepe" needs a hairdresser every month. Ensure there's one not too far away.
+- The office dog—"Dobby" needs a hairdresser every month. Ensure there's one not too far away.
 
 ## Help
 
